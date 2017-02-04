@@ -1,13 +1,11 @@
-export const name = '';
+export const name = 'Chris Langdale';
 
-export const email = '';
+export const email = 'clangdale5309@gmail.com';
 
-export const phone = '801-201-2200';
+export const phone = '801-555-5555';
 
 // Write code here
 
 console.log(name);
 console.log(email);
 console.log(phone);
-
-
